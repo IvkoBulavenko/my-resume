@@ -1,1 +1,1 @@
-# my-resume
+# https://ivkobulavenko.github.io/my-resume/
